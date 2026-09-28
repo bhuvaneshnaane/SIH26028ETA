@@ -1,0 +1,13 @@
+﻿STARTED FastAPI backend              port 8000  PID 7444
+READY   XGBoost ETA dashboard        port 8501 (already running)
+READY   Multimodal inspector         port 8502 (already running)
+READY   React staff dashboard        port 5173 (already running)
+
+Waiting for local services...
+
+Staff dashboard (open this): http://localhost:5173
+FastAPI documentation:       http://localhost:8000/docs
+XGBoost ETA dashboard:      http://localhost:8501
+Multimodal inspector:       http://localhost:8502
+
+Port 8000 is the API, not the React website.
